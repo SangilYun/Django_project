@@ -3,11 +3,13 @@ building web applications with Python and Django 2.1
 
 Next, User Accounts
 
--Blog App
+- Blog App✅ (2018.11.11)
+ https://sang-blog.herokuapp.com
+ 
+ CRUD : create-read-update-delete
+ 글쓰기, 읽기, 수정, 삭제, 로그인, 로그아웃 구현
 
-https://sang-blog.herokuapp.com
-
-- Todo app✅ (2018.11.11)
+- Todo app✅ 
  https://rocky-badlands-90184.herokuapp.com
 
   데이터베이스 연결하여 todo리스트를 추가/ 삭제 할 수 있다.
