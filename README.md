@@ -3,6 +3,7 @@ building web applications with Python and Django 2.1
 
 - User acconts, Custom User Model, User Authentication, Bootstrap, Password change and reset via Email, 
   Permission and Authorization, Comments✅(2018.11.14)
+  
   https://sangil-django.herokuapp.com
 
 - Blog App✅ (2018.11.11)
