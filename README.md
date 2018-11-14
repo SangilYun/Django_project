@@ -8,8 +8,8 @@ building web applications with Python and Django 2.1
 - Blog App✅ (2018.11.11)
  https://sang-blog.herokuapp.com
  
- CRUD : create-read-update-delete
- 글쓰기, 읽기, 수정, 삭제, 로그인, 로그아웃 구현
+  CRUD : create-read-update-delete
+   글쓰기, 읽기, 수정, 삭제, 로그인, 로그아웃 구현
 
 - Todo app✅ 
  https://rocky-badlands-90184.herokuapp.com
